@@ -62,6 +62,8 @@ Dataset terdiri dari:
 
 Total: **800 gambar**
 
+Link : https://www.kaggle.com/datasets/angelikafarahmanoppo/road-surface-dataset-datasetjalan
+
 ---
 
 ## ⚙️ Instalasi
