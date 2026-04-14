@@ -71,8 +71,8 @@ Link : https://www.kaggle.com/datasets/angelikafarahmanoppo/road-surface-dataset
 1. Clone repository:
 
 ```
-git clone https://github.com/username/repository-name.git
-cd repository-name
+git clone https://github.com/Fathir1245/Projek-Model-Deteksi-Jalan-Rusak.git
+cd Projek-Model-Deteksi-Jalan-Rusak
 ```
 
 2. Buat virtual environment:
@@ -174,6 +174,8 @@ Model menghasilkan:
 
 Dibuat oleh:
 **Fadhil Akmal**
+**Yunus Syahrul Mubarok**
+**Moh. Faathir Ash Shaff**
 
 ---
 
