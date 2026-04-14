@@ -47,7 +47,6 @@ Projek-Deni/
 │   ├── train.py
 │   └── evaluate.py
 │
-├── requirements.txt
 └── README.md
 ```
 
